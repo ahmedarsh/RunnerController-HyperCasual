@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51bf29b806831428a86d768087b10727, type: 3}
+  m_Name: Simple Follow
+  m_EditorClassIdentifier: 
+  deafultFOV: 60
+  changeFOV: 0
+  targetFOV: 90
+  fOVChangeSpeed: 4
+  defaultFOVChangeSpeed: 5
+  followSpeed: 5
+  lookSpeed: 2
+  posOffset: {x: 2.0000017, y: 5, z: -13}
+  lookOffset: {x: 2, y: -15.000002, z: 0}
